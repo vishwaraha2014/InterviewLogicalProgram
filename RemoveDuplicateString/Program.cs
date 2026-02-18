@@ -9,7 +9,7 @@ namespace RemoveDuplicateChars
             Console.Write("Enter a string: ");
             string input = Console.ReadLine();
             string result = RemoveDuplicateChars(input);
-            Console.WriteLine(result);  // Output: "helo wrd"
+            Console.WriteLine(result);  // Output
             Console.ReadLine();
         }
         public static string RemoveDuplicateChars(string str)
