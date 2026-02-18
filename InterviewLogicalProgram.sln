@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.35931.194
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11505.172 d18.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prime Numbers", "ConsoleApp1\Prime Numbers.csproj", "{82E4DECA-37B2-4A21-A7F8-20B31E826A99}"
 EndProject
@@ -16,6 +16,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factorial", "Factorial\Factorial.csproj", "{6DC599AC-6F13-489B-9A8A-E6A150E0399A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnagramChars", "AnagramChars\AnagramChars.csproj", "{FCF794B2-3929-4945-AFDE-93C9B172ADC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicateString", "RemoveDuplicateString\RemoveDuplicateString.csproj", "{27213197-C66A-4724-A0E4-6847F9298874}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{FCF794B2-3929-4945-AFDE-93C9B172ADC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCF794B2-3929-4945-AFDE-93C9B172ADC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCF794B2-3929-4945-AFDE-93C9B172ADC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27213197-C66A-4724-A0E4-6847F9298874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27213197-C66A-4724-A0E4-6847F9298874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27213197-C66A-4724-A0E4-6847F9298874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27213197-C66A-4724-A0E4-6847F9298874}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
