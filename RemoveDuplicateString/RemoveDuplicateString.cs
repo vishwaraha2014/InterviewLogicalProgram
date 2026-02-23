@@ -2,7 +2,7 @@
 
 namespace RemoveDuplicateChars
 {
-    class Program
+    class RemoveDuplicateString
     {
         public static void Main()
         {
