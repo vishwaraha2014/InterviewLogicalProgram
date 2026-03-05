@@ -4,7 +4,7 @@ using System.Text;
 
 namespace StringListCountWithName
 {
-    public class StringListCountWithName
+    public class StringListCountWithNameUsingDictionary
     {
        private static readonly List<string> stringList = new List<string>{"ram","shyam", "ram"};
 

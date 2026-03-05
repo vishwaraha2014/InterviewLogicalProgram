@@ -19,9 +19,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnagramChars", "AnagramChar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicateString", "RemoveDuplicateString\RemoveDuplicateString.csproj", "{27213197-C66A-4724-A0E4-6847F9298874}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringListCountWithName", "StringListCountWithName\StringListCountWithName.csproj", "{086BB778-544F-4D8F-A8D6-D17913EA5A68}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringListCountWithNameUsingDictionary", "StringListCountWithName\StringListCountWithNameUsingDictionary.csproj", "{086BB778-544F-4D8F-A8D6-D17913EA5A68}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintStringSeperatelyLineByLine", "PrintStringSeperatelyLineByLine\PrintStringSeperatelyLineByLine.csproj", "{9C8B497C-16AF-46A2-9353-614814082407}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicateIntFromListUsingHASHSET", "RemoveDuplicateIntFromListUsingHASHSET\RemoveDuplicateIntFromListUsingHASHSET.csproj", "{410196BE-3F96-444D-9C5A-EF0274E02804}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{9C8B497C-16AF-46A2-9353-614814082407}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C8B497C-16AF-46A2-9353-614814082407}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C8B497C-16AF-46A2-9353-614814082407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{410196BE-3F96-444D-9C5A-EF0274E02804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410196BE-3F96-444D-9C5A-EF0274E02804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410196BE-3F96-444D-9C5A-EF0274E02804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410196BE-3F96-444D-9C5A-EF0274E02804}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
