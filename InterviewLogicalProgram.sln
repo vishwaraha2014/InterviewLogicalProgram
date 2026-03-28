@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintStringSeperatelyLineBy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicateIntFromListUsingHASHSET", "RemoveDuplicateIntFromListUsingHASHSET\RemoveDuplicateIntFromListUsingHASHSET.csproj", "{410196BE-3F96-444D-9C5A-EF0274E02804}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondLargestNumberArrayList", "SecondLargestNumberArrayList\SecondLargestNumberArrayList.csproj", "{0982E88F-0A07-46C0-BF48-E1E9CAF0CA1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ Interview Questions", "LINQ Interview Questions\LINQ Interview Questions.csproj", "{D778DD49-0B65-4DAA-9473-CA5EC0B64CDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{410196BE-3F96-444D-9C5A-EF0274E02804}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{410196BE-3F96-444D-9C5A-EF0274E02804}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{410196BE-3F96-444D-9C5A-EF0274E02804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0982E88F-0A07-46C0-BF48-E1E9CAF0CA1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0982E88F-0A07-46C0-BF48-E1E9CAF0CA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0982E88F-0A07-46C0-BF48-E1E9CAF0CA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0982E88F-0A07-46C0-BF48-E1E9CAF0CA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D778DD49-0B65-4DAA-9473-CA5EC0B64CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D778DD49-0B65-4DAA-9473-CA5EC0B64CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D778DD49-0B65-4DAA-9473-CA5EC0B64CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D778DD49-0B65-4DAA-9473-CA5EC0B64CDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
